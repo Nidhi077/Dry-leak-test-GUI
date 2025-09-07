@@ -1,2 +1,2 @@
-# Dry-leak-test-GUI
-Dry leak test GUI files
+This project involves building a Graphical User Interface for Data Centralization
+
